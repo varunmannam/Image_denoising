@@ -23,3 +23,10 @@ Limitations:
 3. Speed is better in presence of GPU machine compared to the CPU version.
 4. 4D images support is not added yet this stage.
 5. GPU common errors are linking the CUDA drivers using symbolic names.
+
+
+
+## License & Copyright
+© 2019 Varun Mannam, University of Notre Dame
+
+Licensed under the [GPL](https://github.com/varunmannam/Image_denoising/blob/master/LICENSE)
